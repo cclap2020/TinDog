@@ -50,8 +50,9 @@ h1, h2, h3, h4, h5, h6{
 
 .title-img
 {
-    transform:rotate(25deg) translate(5rem,5rem);
+    transform:rotate(25deg) translate(11rem,5rem);
     width: 15rem;
+    
 }
 
 /* Navigation Bar */
